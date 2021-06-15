@@ -12,7 +12,7 @@
 }
 
 .bg-imagem{
-  /* para manter a responsividade utilizamos o viewport */
+  /* para manter a responsividade utilizei o viewport */
   height: 38vw;
   background-image: url(http://i1.kym-cdn.com/entries/icons/facebook/000/017/204/CaptainAmerica1_zps8c295f96.jpg);
   /* cover define que a imagem de fundo será ajustada para cobrir a área do container */
@@ -22,7 +22,7 @@
 
 .bg-imagem p{
   text-shadow: 4px 4px 8px black;
-  /* para manter a responsividade utilizamos o viewport */
+  /* para manter a responsividade utilizei o viewport */
   font-size: 4vw; 
 }
 
@@ -37,7 +37,7 @@ footer{
 }
 
 .bg-imagem2{
-  /* para manter a responsividaee utilizamos o viewport */
+  /* para manter a responsividade utilizei o viewport */
   height: 48vw;
   background-image: url(https://cdn.pixabay.com/photo/2015/01/08/18/24/children-593313_960_720.jpg);
   /* cover define que a imagem de fundo será ajustada para cobrir a área do container */
